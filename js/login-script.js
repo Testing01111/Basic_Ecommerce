@@ -11,6 +11,6 @@ document.body.querySelector(".redirect").addEventListener("click",(event)=>{
         }
     }
     else{
-        window.location.href = "../html/home.html";
+        window.location.href = "https://testing01111.github.io/Basic_Ecommerce/html/home.html";
     }
 })
